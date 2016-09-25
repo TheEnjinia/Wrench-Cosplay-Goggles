@@ -869,7 +869,7 @@ void setup() {
   left_eye[0].setRotation(3);   //We war using the displays vertically.
   left_eye[1].setRotation(3);
   left_eye[0].begin(0x70);
-  left_eye[1].begin(0x771 );
+  left_eye[1].begin(0x71 );
 
   right_eye[0].setRotation(3);
   right_eye[1].setRotation(3);
